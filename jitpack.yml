@@ -1,0 +1,7 @@
+# configuration file for building snapshots and releases with jitpack.io
+jdk:
+  # Specifying the JDK version
+  - openjdk8
+before_install:
+  # Before installing we need to run this
+  - ./scripts/prepareJitpackEnvironment.sh

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AR-Extensions-Application</string>
+    <string name="user_name_hint">UserName</string>
+    <string name="password_hint">Password</string>
+    <string name="validate_msg">Validate</string>
+    <string name="initialized_successfully_msg">App initialized successfully</string>
+    <string name="validate_successfully_msg">Validate successfully</string>
+</resources>
